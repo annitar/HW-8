@@ -50,6 +50,6 @@ color: olive;
 .thursday li:nth-child(2n){
     color: rosybrown;
 }
-.friday li{
+.friday li:nth-child(n-2){
  color: blue;
 }
